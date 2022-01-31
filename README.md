@@ -2,7 +2,7 @@
 - I am a game developer at Gameloft, working with Unity.
 - I also have some indie game projects.
 - I'm currently learning web development and Unreal Engine.
-- I have 5 years of professional developer experiance. (C#, .NET, Blazor)
+- I have 5 years of professional developer experience. (C#, .NET, Blazor)
 - How to reach me: marcell.lovassy@gmail.com
 
 <!---
