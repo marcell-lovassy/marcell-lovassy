@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Marcell
-- I am a game developer at Gameloft, working with Unity.
+- I am a game developer working at Fortis Games.
 - I also have some indie game projects.
 - I'm currently learning web development and Unreal Engine.
-- I have 6 years of professional developer experience. (C#, .NET, Blazor)
+- I have 8 years of professional developer experience. (C#, .NET, Blazor)
 - How to reach me: marcell.lovassy@gmail.com
 
 <!---
